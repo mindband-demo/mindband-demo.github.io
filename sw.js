@@ -4,28 +4,28 @@ importScripts('/mindband-pwa/workbox.dev.678c6960.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "/mindband-pwa/app.5db9ba57f41effa1424c.js",
-    "revision": "2e207bda60e8d0371e082a35e590d6ad"
+    "url": "/mindband-pwa/app.b2b6d7a7853c485bf8bc.js",
+    "revision": "5e20a17d8564b0ffd6ae123cbd2c00ed"
   },
   {
-    "url": "/mindband-pwa/layouts_default.7f5ffc710801c6c3613a.js",
-    "revision": "f14dfff4dad5b0b9fd8c70de4c33c9b3"
+    "url": "/mindband-pwa/layouts/default.eb3dedf6c3b8c4c21f92.js",
+    "revision": "c9d2ebdafa07495c30f332d27ec301f0"
   },
   {
-    "url": "/mindband-pwa/manifest.583641f09a9183d85a5a.js",
-    "revision": "7e18ffaa7e889d681470c39d11c32efb"
+    "url": "/mindband-pwa/manifest.153279751058eeb5ea2d.js",
+    "revision": "87a527d0ee1d9eaabaf92ef6e6d2e1f9"
   },
   {
-    "url": "/mindband-pwa/pages_index.fe7a24ae89f781a305c9.js",
-    "revision": "8b47e1638747311dd0648ecab8ce6657"
+    "url": "/mindband-pwa/pages/index.e155389979e6acf681a0.js",
+    "revision": "82ceadef62a69524a0fbed4908de29e6"
   },
   {
-    "url": "/mindband-pwa/pages_users__id.3111de988d84f0ea040b.js",
-    "revision": "951e5904d091383abd9629a56ed23808"
+    "url": "/mindband-pwa/pages/users/_id.5d8335944cf16590a0d7.js",
+    "revision": "d9364626a2821f0447ea5775df5a8792"
   },
   {
-    "url": "/mindband-pwa/pages_users_index.a222c40286e9e92528a2.js",
-    "revision": "fadc30b4765bab68cce4b75666dcc294"
+    "url": "/mindband-pwa/pages/users/index.aaba80e62abc86fb5181.js",
+    "revision": "b1b17be84b45c12c9aab68fdfc04f582"
   },
   {
     "url": "/mindband-pwa/vendor.bbbbf8a387d7796f0919.js",
