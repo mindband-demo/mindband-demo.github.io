@@ -4,15 +4,15 @@ importScripts('/mindband-pwa/workbox.dev.678c6960.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "/mindband-pwa/app.b2b6d7a7853c485bf8bc.js",
-    "revision": "5e20a17d8564b0ffd6ae123cbd2c00ed"
+    "url": "/mindband-pwa/app.c4def8dedcf73b47dcf8.js",
+    "revision": "6cd4c34fd1eab31e181ae0b6f3d61412"
   },
   {
     "url": "/mindband-pwa/layouts/default.eb3dedf6c3b8c4c21f92.js",
     "revision": "c9d2ebdafa07495c30f332d27ec301f0"
   },
   {
-    "url": "/mindband-pwa/manifest.153279751058eeb5ea2d.js",
+    "url": "/mindband-pwa/manifest.09e4f24b3cad001fcbf3.js",
     "revision": "87a527d0ee1d9eaabaf92ef6e6d2e1f9"
   },
   {
